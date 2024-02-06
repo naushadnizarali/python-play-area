@@ -1,0 +1,8 @@
+Write a list of the most important, procedural and task-oriented questions an end user would ask from the following context to get whole understanding of the system:
+
+CONTEXT:
+<<TEXT>>
+END CONTEXT
+
+IMPORTANT, PROCEDURAL AND TASK-ORIENTED QUESTIONS:
+-

@@ -1,0 +1,20 @@
+--AMazing Lunch Indicator--
+What is the purpose of the Software Requirements Specification (SRS) document in the context of the Amazing Lunch Indicator (ALI) software? 
+How will it be used to ensure the software system attributes, such as reliability, availability, security, and maintainability, are met?",
+What is the main focus and scope of the ALI software? 
+How will it ensure the portability with iOS and Android, and what features will be included in the first and second releases?",
+Who is the primary intended audience for the SRS document? 
+How will it be used by the development team to ensure the software system attributes are met and to guide the decision-making process for the releases?,
+How does the ALI software manage the physical GPS and the hardware connection to the database server, considering it does not have direct hardware interfaces?",
+
+
+--IRAP--
+What is the main capability of the AI-based platform described in the text, and how does it use an AI model to extract relevant details from the Performance Measurement Tools and Bamboo HR? 
+How does the infrastructure mobileLIVE H support the AI and blockchain components of the platform?
+How does the platform understand and analyze software project requirements, and what is its predictive ability in terms of Resource Profiles, Project Cost, Timelines, and Code Reusability, based on the data from the Performance Measurement Tools and Bamboo HR? 
+How does the infrastructure mobileLIVE H ensure compliance with data protection laws and industry specific regulations?
+What kind of input is required from businesses to use the platform, and what are the expected outputs in terms of generating team options and making informed decisions about resource deployment and budgeting, using the AI model and smart contracts? 
+How does the infrastructure mobileLIVE H provide sufficient computational resources to support the AI and blockchain components effectively?
+How will the platform help businesses make informed decisions about resource deployment and budgeting, and what is the role of smart contracts in this process, considering the four main factors of Resource Profiles, Project Cost, Timelines, and Code Reusability, and the data from the Performance Measurement Tools and Bamboo HR? 
+What is the focus of the platform in delivering solutions to software projects, and how does it predict reusable code, and what is the platform's prediction about the percentage of reusable code from organizations' centralized code base, based on the data from the Performance Measurement Tools and Bamboo HR? 
+How will the platform's prediction about the percentage of reusable code from organizations' centralized code base impact the platform's performance monitoring, and how will it adjust its recommendations based on this prediction, using the data from the Performance Measurement Tools and Bamboo HR? 
