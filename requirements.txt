@@ -16,3 +16,4 @@ aiofiles
 PyPDF2
 python-multipart
 faiss-cpu
+unstructured

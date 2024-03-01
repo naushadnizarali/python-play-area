@@ -1,0 +1,163 @@
+[
+  { "0": "What is the purpose of the Amazing Lunch Indicator ALI software" },
+  {
+    "0": "What are the requirements for the Amazing Lunch Indicator ALI software"
+  },
+  {
+    "0": "What are system constraints, interface and interactions with other external applications"
+  },
+  { "0": "What is the scope of the Amazing Lunch Indicator ALI software" },
+  { "0": "How does it work" },
+  { "0": "How can I use it to find a good place for lunch" },
+  { "0": "What is the purpose of the system" },
+  { "0": "How does the system work" },
+  {
+    "0": "What are the functionalities available for each type of stakeholders"
+  },
+  { "0": "What are the constraints and assumptions for the system" },
+  {
+    "0": "How can I use this system to find a restaurant based on my current position and other specifications like price, restaurant type, dish and more"
+  },
+  { "0": "How does the mobile application communicate with the database" },
+  { "0": "What are the constraints for the mobile application" },
+  { "0": "What is an assumption about the product" },
+  { "0": "How does the web portal communicate with the database" },
+  { "0": "How do you add and modify data in the web portal" },
+  {
+    "0": "What are the constraints for both applications when using the database"
+  },
+  { "0": "What is the expected time to fetch data" },
+  { "0": "What are the assumptions and dependencies of the product" },
+  {
+    "0": "What happens if the phone does not have enough hardware resources available for the application"
+  },
+  {
+    "0": "Does the mobile application or web portal have any designated hardware"
+  },
+  { "0": "What are the direct hardware interfaces" },
+  {
+    "0": "What are the designated hardware for the application and web portal"
+  },
+  {
+    "0": "Are there any direct hardware interfaces for the application or web portal"
+  },
+  {
+    "0": "How is the physical GPS managed by the GPS application in the mobile phone"
+  },
+  {
+    "0": "How is the hardware connection to the database server managed by the underlying operating system on the mobile phone and web server"
+  },
+  { "0": "What is the purpose of the GPS application" },
+  {
+    "0": "How does the mobile phone communicate with the GPS application to get geographical information"
+  },
+  {
+    "0": "What are the design constraints on the software caused by the hardware"
+  },
+  { "0": "What are measurements obtained from hours of usage during testing" },
+  {
+    "0": "What are the design constraints on the software caused by the hardware"
+  },
+  {
+    "0": "What are the observations done from the performance log during testing"
+  },
+  {
+    "0": "What are the requirements in this section specify the required reliability, availability, security and maintainability of the software system"
+  },
+  {
+    "0": "What are the requirements for reliability, availability, security and maintainability of the software system"
+  },
+  { "0": "What is the application extendibility" },
+  {
+    "0": "How should the code be written in a way that it favors implementation of new functions"
+  },
+  { "0": "What are the requirements for test environments" },
+  {
+    "0": "How should test environments be built for the application to allow testing of the applications different functions"
+  },
+  { "0": "What is required for application portability with iOS and Android" },
+  { "0": "What is the purpose of the first release" },
+  { "0": "What will be included in the first release" },
+  { "0": "What is the purpose of the second release" },
+  { "0": "What will be included in the second release" },
+  {
+    "0": "Why are we including only the map result view in the first release and not other features"
+  },
+  {
+    "0": "Why are we including only additional information feature in the second release and not other features"
+  },
+  { "0": "What are the features in the second release" },
+  { "0": "What is FR11" },
+  { "0": "What is FR7" },
+  { "0": "What is FR8" },
+  {
+    "0": "What will be added as an additional information feature in the second release to make link the application more attractive for the users"
+  },
+  {
+    "0": "What will be added as an additional feature in the third release to make the application more attractive for the users"
+  },
+  { "0": "What is FR12" },
+  { "0": "What is FR13" },
+  {
+    "0": "When will search by price be added as an additional feature to make the application more attractive for the users"
+  },
+  {
+    "0": "When will search by restaurant type be added as an additional feature to make the application more attractive for the users"
+  },
+  {
+    "0": "When will accepted input for price and destination be included in the third release"
+  },
+  {
+    "0": "When will this search function that will destination be included in the first release"
+  },
+  {
+    "0": "Why is this requirement that will make for price and destination added in the third release"
+  },
+  {
+    "0": "What are the additional restaurant type features that will be added to the second release"
+  },
+  {
+    "0": "What are the specific dish features that will be added to the third release"
+  },
+  {
+    "0": "What is the additional search feature that will be added to the first release"
+  },
+  { "0": "How does this application make it more attractive for users" },
+  { "0": "What is the requirement FR17" },
+  { "0": "What is the requirement FR6" },
+  { "0": "What does Freetext mean and how will it be used in the application" },
+  { "0": "Why will QR3 be put in the second release and not in the first one" },
+  { "0": "Why will QR4 be put in the second release and not in the first one" },
+  { "0": "When can we discharge a requirement" },
+  { "0": "How will reliability of a function be improved" },
+  { "0": "What are the requirements for discharging the system" },
+  {
+    "0": "How is the system growing and how does it affect the security respect for users"
+  },
+  {
+    "0": "What is included in the first account release to enhance safety of security for system owners"
+  },
+  { "0": "How does the log in security work and what is included in it" },
+  { "0": "What is the purpose of QR16" },
+  { "0": "What is the purpose of QR17" },
+  { "0": "What is the purpose of FR3" },
+  {
+    "0": "How does the system prevent illegitimate owners from using a restaurant owner's account"
+  },
+  {
+    "0": "How does the system prevent illegitimate administrators from using an administrator account"
+  },
+  {
+    "0": "How does the system resolve conflict between security users with the same name"
+  },
+  {
+    "0": "How does the system resolve conflict between restaurant owners with the same security name"
+  },
+  { "0": "What is the system testability" },
+  {
+    "0": "What will be considered and portability continuously improved during the whole process"
+  },
+  { "0": "What is the Figure SR diagram" },
+  { "0": "What is the Figure Release plan schedule" },
+  { "0": "" }
+]

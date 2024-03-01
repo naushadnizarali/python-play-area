@@ -66,7 +66,7 @@ def process_texts(file_path):
 
 
 if __name__ == "__main__":
-    file_path = "./docs/Doc-4.pdf"
+    file_path = "./docs/Doc-3.pdf"
     doc_texts = process_texts(file_path)
     # doc_texts = doc_texts[:2]
     all_questions = ""
@@ -76,10 +76,12 @@ if __name__ == "__main__":
         questions = completion(prompt)
         all_questions += questions.replace("\n\n", "").replace("\n", "")
 
+    # print(all_questions)
+
     all_questions = all_questions.split("?")
 
-    df = pd.DataFrame(all_questions, columns=["question"])
+    df = pd.DataFrame(all_questions)
     base_folder = "./output/"
     if not os.path.isdir(base_folder):
         os.mkdir(base_folder)
-    df.to_json("./output/questions.json", orient="records")
+    df.to_json("./output/questions-2.json", orient="records")
