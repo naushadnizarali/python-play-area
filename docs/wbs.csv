@@ -1,0 +1,30 @@
+Level,Category,Subcategory,User Story,Effort (Weeks)
+1,Analysis,Requirements Gathering,"Gather user requirements focusing on login functionality, including multi-factor authentication.",1
+1,Analysis,Requirements Gathering,"Document requirements for registration functionality, emphasizing data validation and user feedback.",2
+1,Analysis,Requirements Gathering,"Outline search functionality requirements, with a focus on filter options and search result sorting.",1
+1,Analysis,Technical Specifications,Specify programming languages and frameworks for mobile and web development.,1
+1,Analysis,Technical Specifications,Define API specifications for GPS and internet connectivity integration.,1
+2,Design,UI/UX Design,"Design the login page, incorporating user feedback for intuitive navigation.",2
+2,Design,UI/UX Design,"Create detailed wireframes for the search page, focusing on usability and accessibility standards.",3
+2,Design,UI/UX Design,Design the profile and information pages with a mobile-first approach.,2
+2,Design,UI/UX Design,Develop high-fidelity prototypes for key screens to validate the design with stakeholders.,3
+2,Design,System Architecture,"Define the mobile application's architecture, focusing on modularity and scalability.",3
+2,Design,System Architecture,"Design the web portal's architecture, ensuring seamless data synchronization with the mobile app.",5
+2,Design,System Architecture,Outline a microservices architecture for easier scaling and maintenance.,5
+2,Design,Security,Specify encryption protocols for data transmission and storage.,3
+2,Design,Security,Design a token-based authentication system for user sessions.,3
+3,Development,Mobile Application,Implement login functionality with OAuth and multi-factor authentication.,5
+3,Development,Mobile Application,"Develop registration functionality, including form validation and user feedback mechanisms.",3
+3,Development,Mobile Application,Implement search functionality with dynamic filters and sorting capabilities.,5
+3,Development,Mobile Application,Integrate Google Maps API for location-based search results.,3
+3,Development,Web Portal,"Set up the administrative dashboard for restaurant owners, with CRUD operations on restaurant info.",5
+3,Development,Web Portal,"Implement user management for restaurant owners, including roles and permissions.",3
+3,Development,Integration,Develop service for syncing data between mobile app and web portal in real-time.,3
+3,Development,Database,Design and implement the database schema focusing on normalization and indexing for performance.,5
+3,Development,Database,Set up database replication and backup strategies.,3
+4,Testing,Functionality Testing,"Automate testing for login, registration, and search functionalities.",3
+4,Testing,Security Testing,Perform penetration testing to identify vulnerabilities in authentication mechanisms.,3
+4,Testing,Performance Testing,Conduct load testing to ensure the application performs well under peak load.,3
+5,Deployment,Initial Release,Prepare deployment pipeline for continuous delivery.,2
+5,Deployment,Feedback Loop,Set up a system for collecting and analyzing user feedback.,2
+5,Deployment,Update Mechanism,Develop a feature flag system for rolling out updates incrementally.,3
